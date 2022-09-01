@@ -1,0 +1,7 @@
+[
+  { "name": "ahmed", "belt": "green", "rate": 50, "available": true },
+  { "name": "kamel", "belt": "black", "rate": 10, "available": true },
+  { "name": "ali", "belt": "orange", "rate": 30, "available": false },
+  { "name": "sayed", "belt": "red", "rate": 80, "available": true },
+  { "name": "mina", "belt": "yellow", "rate": 1000, "available": true }
+]
